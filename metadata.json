@@ -1,0 +1,5 @@
+{
+  "name": "Excel Phone Geocoder",
+  "description": "A web-based tool to enrich Excel files with country data derived from phone numbers. It mirrors the logic of a Python automation script, which is also provided for download.",
+  "requestFramePermissions": []
+}
